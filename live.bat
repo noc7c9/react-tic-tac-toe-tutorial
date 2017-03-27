@@ -1,0 +1,1 @@
+@livereload . --exclusions index.js
